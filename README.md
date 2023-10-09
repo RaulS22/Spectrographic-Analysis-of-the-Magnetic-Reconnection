@@ -6,3 +6,6 @@ this phenomena. Our approach provided a simplified view of the data provided.
 
 This project was fisrt developed as a jupyter notebook on Google Colab in order
 to debug it. This files are present at "colab.zip".
+
+Our slides presentation (in PDF format) is also present here.
+
