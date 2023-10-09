@@ -19,7 +19,10 @@ denoised graph of.
 If you wish to see the rough and denoised graphs of the Bz mesured by the spacecrafts edit the parameter False of the function Bz_data_processer to True.
 
 Summary of the graphs:
+
 trace 1 -> ACE
+
 trace 2 -> WIND
+
 trace 3 -> DSCOVR
 
