@@ -9,3 +9,5 @@ to debug it. This files are present at "colab.zip".
 
 Our slides presentation (in PDF format) is also present here.
 
+A prototype site were created at wix in order to give a preview of an aplication.
+
