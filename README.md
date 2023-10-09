@@ -15,5 +15,5 @@ A prototype site were created at wix in order to give a preview of an aplication
 
 In order to execute our prototype, you must download the program_file folder and execute the file refered to the year you wish to see the denoised graph of.
 
-If you want to see the rough and denoised graphs of the Bz mesured by the spacecrafts edit the parameter False of the function Bz_data_
+If you wish to see the rough and denoised graphs of the Bz mesured by the spacecrafts edit the parameter False of the function Bz_data_processer to True.
 
