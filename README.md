@@ -10,6 +10,7 @@ to debug it. This files are present at "colab.zip".
 We simplified the program developed on the notebook to several .py files, separated by year.
 
 Our slides presentation (in PDF format) is also present here.
+Our documentation and theoretical basis are also present here.
 
 A prototype site were created at wix in order to give a preview of an aplication.
 
@@ -20,9 +21,7 @@ If you wish to see the rough and denoised graphs of the Bz mesured by the spacec
 
 Summary of the graphs:
 
-trace 1 -> ACE
-
-trace 2 -> WIND
-
-trace 3 -> DSCOVR
+Trace 1 -> ACE
+Trace 2 -> WIND
+Trace 3 -> DSCOVR
 
