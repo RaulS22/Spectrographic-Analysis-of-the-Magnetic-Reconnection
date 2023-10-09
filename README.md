@@ -7,7 +7,13 @@ this phenomena. Our approach provided a simplified view of the data provided.
 This project was fisrt developed as a jupyter notebook on Google Colab in order
 to debug it. This files are present at "colab.zip".
 
+We simplified the program developed on the notebook to several .py files, separated by year.
+
 Our slides presentation (in PDF format) is also present here.
 
 A prototype site were created at wix in order to give a preview of an aplication.
+
+In order to execute our prototype, you must download the program_file folder and execute the file refered to the year you wish to see the denoised graph of.
+
+If you want to see the rough and denoised graphs of the Bz mesured by the spacecrafts edit the parameter False of the function Bz_data_
 
